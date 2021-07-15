@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "David Leda",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {}
 }
